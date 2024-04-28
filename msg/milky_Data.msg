@@ -1,0 +1,4 @@
+milky_Controller controller
+string date
+milky_Mutablepose detectData
+milky_Framesetting frameSetting

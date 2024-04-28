@@ -1,0 +1,2 @@
+float64 floatX
+float64 floatY
